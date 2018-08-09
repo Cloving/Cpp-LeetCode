@@ -1,3 +1,6 @@
+/**
+ * 从排序数组中删除重复元素
+ */
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
