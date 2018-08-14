@@ -1,7 +1,6 @@
 /**
  * 存在重复
- * 第一种：
- * 首先将数组排序，
+ * 第一种：首先将数组排序，
  * 之后比较相邻两个数组是否相同
  */
 class Solution {
@@ -24,8 +23,7 @@ public:
 };
 
 /**
- * 第二种：
- * 使用map
+ * 第二种：使用map
  */
 class Solution {
 public:
@@ -48,8 +46,7 @@ public:
 };
 
 /**
- * 第三种：
- * 使用unordered_map
+ * 第三种：使用unordered_map
  */
 class Solution {
 public:
@@ -71,8 +68,7 @@ public:
 };
 
  /**
- * 第四种：
- * 使用set
+ * 第四种：使用set
  */
 class Solution {
 public:
@@ -95,8 +91,7 @@ public:
 };
 
  /**
- * 第五种：
- * 使用sort与unique
+ * 第五种：使用sort与unique
  */
 class Solution {
 public:
@@ -112,8 +107,7 @@ public:
 };
 
 /**
- * 第六种：
- * 使用set的构造函数
+ * 第六种：使用set的构造函数
  */
 class Solution {
 public:
