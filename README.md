@@ -18,11 +18,6 @@
 |  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
-|       |                                     |                     |      |
-|       |                                     |                     |      |
-|       |                                     |                     |      |
-|       |                                     |                     |      |
-|       |                                     |                     |      |
 
 
 
