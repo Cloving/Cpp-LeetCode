@@ -9,13 +9,15 @@
 
 
 
+
+
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :-----------------: | :--: |
 | 1 | [Two Sum][001] | Array, Hash Table | Easy |
-|  26   | Remove Duplicates from Sorted Array | Array, Two Pointers | Easy |
-|  121  | Best Time to Buy and Sell Stock | Array, Dynamic Programming | Easy |
-| 122 | Best Time to Buy and Sell Stock II | Array, Greedy | Easy |
-|       |                                     |                     |      |
+|  26   | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
+|  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
+| 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
+| 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 |       |                                     |                     |      |
 |       |                                     |                     |      |
 |       |                                     |                     |      |
@@ -25,6 +27,10 @@
 
 
 [001]: https://www.google.com
+[026]: https://www.google.com
+[121]: https://www.google.com
+[122]: https://www.google.com
+[136]: https://www.google.com
 
 
 
