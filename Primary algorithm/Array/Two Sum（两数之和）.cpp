@@ -8,7 +8,7 @@ public:
         unordered_map<int, int> temp;
         for (int i = 0; i < nums.size(); i++) {
             if (temp.count(target-nums[i])) {
-                return {i, temp[nums[i]]};
+                return {temp[target-nums[i]], i};
             } else {
                 temp[nums[i]] = i;
             }
