@@ -3,29 +3,16 @@
  * 首先将数组的前后部分反转，
  * 之后再反转整个数组
  */
-
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int len = nums.size();
-        if (k>len) {
-            k = k-len;
+        while (nums.empty() || (k = k % len) == 0) {
+            return;
         }
-        int n = len - k;
-        nums = reverse(nums, 0, n - 1);
-        nums = reverse(nums, n, len - 1);
-        nums = reverse(nums, 0, len-1);
-    }
-    vector<int> reverse(vector<int>& array, int m, int n) {
-        while (m < n) {
-            int temp;
-            temp = array[n];
-            array[n] = array[m];
-            array[m] = temp;
-            m++;
-            n--;
-        }
-        return array;
+        reverse(nums.begin(), nums.begin()+len-k);
+        reverse(nums.begin()+len-k, nums.end());
+        reverse(nums.begin(), nums.end());
     }
 };
 
@@ -37,18 +24,21 @@ public:
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        int tempValue, cur;
-        int i = 0, start = 0, len = nums.size();
-        int s = len;
-        while (len < k) {
-            k = k-len;
+        int len = nums.size(), cur, tempValue;
+        int s = len, start = 0, i = 0;
+        if (k == len || k % len == 0) {
+            return;
         }
-        cur = nums[start];
+        while (k > len) {
+            k = k - len;
+        }
+        cur = nums[0];
         while (s--) {
-            i = (i+k)%len;
+            i = (i+k) % len;
             tempValue = nums[i];
             nums[i] = cur;
             // 2018-8-13：某个数组元素的新位置可能会在数组元素的开头
+            // 如果新位置在数组的开头，下一个索引还没有被确定为哪个元素
             if (start == i) {
                 start++;
                 i++;
@@ -56,6 +46,39 @@ public:
             } else {
                 cur = tempValue;
             }
+        }        
+    }
+};
+/**
+ * 第三种：
+ * 建立新数组，直接旋转
+ */
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        int length = nums.size();
+        if (nums.size() == 0) {
+            return;
+        }
+        vector<int> t = nums;
+        for (int i = 0; i < nums.size(); i++) {
+            nums[(i+k) % length] = t[i];
+        }
+    }
+};
+
+// 第四种：利用STL的push_back和erase
+
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        int len = nums.size();
+        if (len == 0 || (k = k % len) == 0) {
+            return;
+        }
+        for (int i = 0; i < len-k; i++) {
+            nums.push_back(nums[0]);
+            nums.erase(nums.begin());
         }
     }
 };
