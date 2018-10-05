@@ -16,6 +16,3 @@ public:
         return left;
     }
 };
-
-
-dfghdfhsf
