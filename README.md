@@ -18,6 +18,7 @@
 |  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
+| 189 | [Rotate Array][189] | Array | Easy |
 
 
 
@@ -26,6 +27,5 @@
 [121]: https://www.google.com
 [122]: https://www.google.com
 [136]: https://www.google.com
-
-
+[189]: https://www.google.com
 

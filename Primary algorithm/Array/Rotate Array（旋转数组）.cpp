@@ -82,3 +82,22 @@ public:
         }
     }
 };
+
+// 第五种
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        int len = nums.size();
+        if (len == 0 || (k % len == 0)) {
+            return;
+        }
+        int start = 0;
+        while(len && (k %= len)) {
+            for (int i = 0; i < k; i++) {
+                swap(nums[i+start], nums[i+start+len-k]);
+            }
+            len = len -k;
+            start = start + k;
+        }
+    }
+};
