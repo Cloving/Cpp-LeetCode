@@ -19,6 +19,7 @@
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
+| 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
 
 
 
@@ -28,4 +29,4 @@
 [122]: https://www.google.com
 [136]: https://www.google.com
 [189]: https://www.google.com
-
+[217]: https://www.google.com
