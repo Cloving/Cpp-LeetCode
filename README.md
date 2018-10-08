@@ -11,7 +11,6 @@
 
 
 
-<<<<<<< HEAD
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :-----------------: | :--: |
 | 1 | [Two Sum][001] | Array, Hash Table | Easy |
@@ -20,16 +19,6 @@
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
-=======
-| Index |                  Title                   |             Tag              | Type |
-| :---: | :--------------------------------------: | :--------------------------: | :--: |
-|   1   |              [Two Sum][001]              |      Array, Hash Table       | Easy |
-|  26   | [Remove Duplicates from Sorted Array][026] |     Array, Two Pointers      | Easy |
-|  121  |  [Best Time to Buy and Sell Stock][121]  |  Array, Dynamic Programming  | Easy |
-|  122  | [Best Time to Buy and Sell Stock II][122] |        Array, Greedy         | Easy |
-|  136  |           [Single Number][136]           | Bit Manipulation, Hash Table | Easy |
-|       |                                          |                              | Easy |
->>>>>>> 8b046336c4d149070d5373e44968c5baffe22df9
 
 
 
