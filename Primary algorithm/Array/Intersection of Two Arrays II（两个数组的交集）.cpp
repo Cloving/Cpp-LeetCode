@@ -49,3 +49,41 @@ public:
         return res;
     }
 };
+
+
+/*
+ * 适用于一个数组元素少一个数组元素多的情况
+ */
+class Solution {
+public:
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        vector<int> res;
+        sort(nums2.begin(), nums2.end());
+        for (int i = 0; i < nums1.size(); i++) {
+            int left = 0, right = nums2.size()-1;
+            while(left <= right) {
+                int mid = left + (right - left) / 2;
+                if (nums2[mid] == nums1[i]) {
+                    res.push_back(nums1[i]);
+                    nums2.erase(nums2.begin()+mid,nums2.begin()+mid+1);
+                    break;
+                } else if (nums2[mid] < nums1[i]) {
+                    left = mid+1;
+                } else {
+                    right = mid-1;
+                }
+            }
+        }
+        return res;
+    }
+};
+
+
+/*
+ * 1、如果不排序，O(mn)
+ * 2、如果m和n都在合理范围内，先排序，再一个一个对比，时间复杂度O(nlgn + mlgm + m+n)
+ * 3、如果m远小于n, 对n排序。m排序（nlgn+mlgm+m+n）, m不排序(nlgn + mn)。
+ *    如果在n里做binary search(二叉查找)，这样复杂度降低为nlgn+mlgn
+ * 4、如果n很大，n只能存在disk上。只能把m load到内存，然后n一个一个的读进来，和m对比。
+ *    这时m可以用hash存，这样复杂度就为O(n)
+ */

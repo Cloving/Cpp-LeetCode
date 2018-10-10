@@ -15,18 +15,24 @@
 | :---: | :---------------------------------: | :-----------------: | :--: |
 | 1 | [Two Sum][001] | Array, Hash Table | Easy |
 |  26   | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
+| 66 | [Plus One][66] | Array, Math | Easy |
 |  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
+| 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
+| 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
 
 
 
 [001]: https://www.google.com
 [026]: https://www.google.com
+[066]: https://www.google.com
 [121]: https://www.google.com
 [122]: https://www.google.com
 [136]: https://www.google.com
 [189]: https://www.google.com
 [217]: https://www.google.com
+[283]: https://www.google.com
+[350]: https://www.google.com
