@@ -1,6 +1,5 @@
-/**
- * 从排序数组中删除重复元素
- */
+/* Remove duplicates from sorted arrays（从排序数组中删除重复项） */
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

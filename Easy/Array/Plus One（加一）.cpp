@@ -1,7 +1,4 @@
-/**
- * 加一
- * 第一种
- */
+/* Plus One（加一） */
 
 class Solution {
 public:
