@@ -8,13 +8,12 @@ public:
         int len = nums.size();
         if (len <= 1) {
             return len; 
-        } else {
-            for (int j = 1; j < len; j++) {
-                if (nums[i] != nums[j]) {
-                    nums[++i] = nums[j];
-                }
-            }
-            return i+1;
         }
+        for (int j = 1; j < len; j++) {
+            if (nums[i] != nums[j]) {
+                nums[++i] = nums[j];
+            }
+        }
+        return i+1;
     }
 };

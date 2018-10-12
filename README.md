@@ -19,6 +19,8 @@
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 48 | [Rotate Image][048] | Array | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
+| 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
+| 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
 |  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
@@ -35,6 +37,8 @@
 [036]: https://www.google.com
 [048]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Rotate%20Image%EF%BC%88%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F%EF%BC%89.cpp
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
+[075]: https://www.google.com
+[080]: https://www.google.com
 [121]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%EF%BC%89.cpp
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
@@ -42,3 +46,4 @@
 [217]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Contains%20Duplicate%EF%BC%88%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%EF%BC%89.cpp
 [283]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Move%20Zeroes%EF%BC%88%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%89.cpp
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Primary%20algorithm/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
+
