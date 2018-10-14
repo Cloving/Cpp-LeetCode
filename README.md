@@ -36,7 +36,7 @@
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
 [075]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Sort%20Colors%EF%BC%88%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%EF%BC%89.cpp
 [080]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Remove%20duplicates%20from%20sorted%20arrays%20II%EF%BC%88%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II%EF%BC%89.cpp
-[088]: https://www.google.com
+[088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [121]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%EF%BC%89.cpp
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
