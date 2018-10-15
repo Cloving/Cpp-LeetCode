@@ -9,14 +9,14 @@
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :-----------------: | :--: |
 | 1 | [Two Sum][001] | Array, Hash Table | Easy |
-|  26   | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
+| 26 | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 48 | [Rotate Image][048] | Array | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
 | 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
-|  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
+| 121 | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
