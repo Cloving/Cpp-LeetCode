@@ -19,7 +19,9 @@
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 |  121  | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
+| 125 | [Valid Palindrome][125] | Two Pointers, String | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
+| 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
 | 215 | [Kth Largest Element in an array][215] | Heap, Divide and Conquer | Medium |
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
@@ -39,7 +41,9 @@
 [088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [121]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%EF%BC%89.cpp
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
+[125]: http://www.google.com
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
+[167]: http://www.google.com
 [189]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Rotate%20Array%EF%BC%88%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [215]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Kth%20Largest%20Element%20in%20an%20array%EF%BC%88%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [217]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Contains%20Duplicate%EF%BC%88%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%EF%BC%89.cpp

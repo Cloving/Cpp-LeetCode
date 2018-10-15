@@ -1,3 +1,5 @@
+/* Valid Palindrome（回文字符串） */
+
 class Solution {
 public:
     bool isPalindrome(string s) {
