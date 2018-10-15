@@ -1,5 +1,6 @@
 /* Valid Palindrome（回文字符串） */
 
+// 转换成小写字母tolower
 class Solution {
 public:
     bool isPalindrome(string s) {
