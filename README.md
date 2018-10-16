@@ -4,7 +4,7 @@
 1. 算法采用**C++**语言编写，所有提交程序均已AC，请放心食用；
 2. 多数题目一般采用了两种或两种以上的方法解答；
 
-## Array
+
 
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :-----------------: | :--: |
@@ -30,6 +30,8 @@
 | 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
 | 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+| 724 | [Find Pivot Index][724] | Array | Easy |
+| 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
 
 
 
@@ -55,3 +57,5 @@
 [283]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Move%20Zeroes%EF%BC%88%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%89.cpp
 [345]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Reverse%20a%20Vowels%20of%20%20a%20String%EF%BC%88%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8E%9F%E9%9F%B3%E5%AD%97%E6%AF%8D%EF%BC%89.cpp
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
+[724]: https://www.google.com
+[747]: https://www.google.com
