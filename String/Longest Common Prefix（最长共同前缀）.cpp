@@ -1,3 +1,6 @@
+/* Longest Common Prefix（最长共同前缀）*/
+
+/* 第一种: 与第二种差不多，只不过写法不一样 */
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
@@ -5,10 +8,10 @@ public:
             return "";
         }
         string res = "";
-        for (int i = 0; i < strs[0].size(); i++) {
-            char c = strs[0][i];
-            for (int j = 0; j < strs.size(); j++) {
-                if (i > strs[j].size() || strs[j][i] != c) {
+        for (int col = 0; col < strs[0].size(); col++) {
+            char c = strs[0][col];
+            for (int row = 0; row < strs.size(); row++) {
+                if (col > strs[row].size() || c != strs[row][col]) {
                     return res;
                 }
             }
@@ -18,16 +21,17 @@ public:
     }
 };
 
+/* 第二种 */
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         if (strs.empty()) {
             return "";
-        } 
-        for (int i = 0; i < strs[0].size(); i++) {
-            for (int j = 0; j < strs.size()-1; j++) {
-                if (i > strs[j].size() || strs[j][i] != strs[j+1][i]) {
-                    return strs[0].substr(0, i);
+        }
+        for (int col = 0; col < strs[0].size(); col++) {
+            for (int row = 0; row < strs.size() - 1; row++) {
+                if (col > strs[row].size() || strs[row][col] != strs[row+1][col]) {
+                    return strs[0].substr(0,col);
                 }
             }
         }
