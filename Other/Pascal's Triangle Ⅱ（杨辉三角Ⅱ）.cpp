@@ -1,0 +1,19 @@
+/* Pascal's Triangle Ⅱ（杨辉三角Ⅱ） */
+
+class Solution {
+public:
+    vector<int> getRow(int rowIndex) {
+        vector<int> res;
+        if (rowIndex < 0) {
+            return res;
+        }
+        res.assign(rowIndex+1, 0);
+        res[0] = 1;
+        for (int i = 0; i < rowIndex; i++) {
+            for (int j = rowIndex; j >= 1; j--) {
+                res[j] = res[j] + res[j-1];
+            }
+        }
+        return res;
+    }
+};

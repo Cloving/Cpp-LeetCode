@@ -39,7 +39,7 @@ public:
             i = (i+k) % len;
             tempValue = nums[i];
             nums[i] = cur;
-            // 2018-8-13：某个数组元素的新位置可能会在数组元素的开头
+            // 2018-8-13：某个数组元素的新位置可能会在数组元素的开头,说明这是一个周期
             // 如果新位置在数组的开头，下一个索引还没有被确定为哪个元素
             if (start == i) {
                 start++;
@@ -98,7 +98,7 @@ public:
             for (int i = 0; i < k; i++) {
                 swap(nums[i+start], nums[i+start+len-k]);
             }
-            len = len -k;
+            len = len - k;
             start = start + k;
         }
     }
