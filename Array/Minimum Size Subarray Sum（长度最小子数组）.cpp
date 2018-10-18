@@ -3,18 +3,17 @@
 /* 第一种 */
 class Solution {
 public:
-  int minSubArrayLen(int s, vector<int>& nums) {
-    int res = INT_MAX;
-    int left = 0, sum = 0, len = nums.size();
-    for (int i = 0; i < len; i++) {
-      sum += nums[i];
-      while (sum >= s && left <= i) {
-        res = min(res, i-left+1);
-        sum -= nums[left++];
-      }
+    int minSubArrayLen(int s, vector<int>& nums) {
+        int res = INT_MAX, left = 0, subArraySum = 0;
+        for (int right = 0; right < nums.size(); right++) {
+            subArraySum += nums[right];
+            while (subArraySum >= s && left <= right) {
+                res = min(res, right - left + 1);
+                subArraySum -= nums[left++];
+            }
+        }
+        return res == INT_MAX ? 0 : res;
     }
-    return res == INT_MAX ? 0 : res;
-  }
 };
 
 
@@ -33,6 +32,7 @@ public:
     for (int i = 1; i < len+1; ++i) {
       sum[i] = sum[i-1] + nums[i-1];
     }
+    // 查找范围内第一个大于等于target的数
     for (int i = 0; i < len+1; ++i) {
       int left = i+1, right = n, target = sum[i] + s;
       while (left <= right) {
