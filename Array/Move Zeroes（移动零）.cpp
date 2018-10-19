@@ -1,5 +1,6 @@
 /* Move Zeroes（移动零） */
 
+/* 第一种 */
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
@@ -12,6 +13,22 @@ public:
             if (nums[i] != 0) {
                 swap(nums[i], nums[j++]);
             }
+        }
+    }
+};
+
+/* 第二种 */
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int left = 0;
+        for (int right = 0; right < nums.size(); right++) {
+            if (nums[right] != 0) {
+                nums[left++] = nums[right];
+            }
+        }
+        while (left < nums.size()) {
+            nums[left++] = 0;
         }
     }
 };
