@@ -27,6 +27,7 @@
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 125 | [Valid Palindrome][125] | Two Pointers, String | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
+| 151 | [Reverse Words in a String][151] | String | Medium |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
 | 209 | [Minimum Size Subarray Sum][209] | Array, Two Pointers, Binary Search | Medium |
@@ -37,6 +38,7 @@
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
 | 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
 | 485 | [Max Consecutive Ones][485] | Array | Easy |
+| 557 | [Reverse Words in a String III][557] | String | Easy |
 | 561 | [Array Partition Ⅰ][561] | Array | Easy |
 | 724 | [Find Pivot Index][724] | Array | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
@@ -62,6 +64,7 @@
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [125]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Valid%20Palindrome%EF%BC%88%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
+[151]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
 [189]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Rotate%20Array%EF%BC%88%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [209]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Minimum%20Size%20Subarray%20Sum%EF%BC%88%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E5%AD%90%E6%95%B0%E7%BB%84%EF%BC%89.cpp
@@ -72,6 +75,7 @@
 [345]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Reverse%20a%20Vowels%20of%20%20a%20String%EF%BC%88%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8E%9F%E9%9F%B3%E5%AD%97%E6%AF%8D%EF%BC%89.cpp
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
 [485]: https://www.google.com
+[557]: https://www.google.com
 [561]: https://www.google.com
 [724]: https://www.google.com
 [747]: https://www.google.com
