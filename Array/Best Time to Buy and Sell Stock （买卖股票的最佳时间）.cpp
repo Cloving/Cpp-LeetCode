@@ -8,11 +8,10 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int len = prices.size(), buyPrice = INT_MAX;
-        int res = 0;
-        for(int i = 0; i < len; i++) {
-            buyPrice = min(buyPrice, prices[i]);
-            res = max(res, prices[i] - buyPrice);
+        int res = 0, curMinBuyPrice = INT_MAX;
+        for (int price : prices) {
+            curMinBuyPrice = min(curMinBuyPrice, price);
+            res = max(res, price - curMinBuyPrice);
         }
         return res;
     }
