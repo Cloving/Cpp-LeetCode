@@ -40,6 +40,7 @@
 | 215 | [Kth Largest Element in an array][215] | Heap, Divide and Conquer | Medium |
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
 | 229 | [Majority Element II][229] | Array | Medium |
+| 238 | [Product of Array Except Self][238] | Array | Medium |
 | 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
 | 344 | [Reverse String][344] | Two Pointers, String | Easy |
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
@@ -47,6 +48,7 @@
 | 485 | [Max Consecutive Ones][485] | Array | Easy |
 | 557 | [Reverse Words in a String III][557] | String | Easy |
 | 561 | [Array Partition Ⅰ][561] | Array | Easy |
+| 695 | [Max Area of Island][695] | Depth-first Search, Array | Easy |
 | 724 | [Find Pivot Index][724] | Array | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
 
@@ -84,6 +86,7 @@
 [215]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Kth%20Largest%20Element%20in%20an%20array%EF%BC%88%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [217]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Contains%20Duplicate%EF%BC%88%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%EF%BC%89.cpp
 [229]: https://www.google.com
+[238]: https://www.google.com
 [283]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Move%20Zeroes%EF%BC%88%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%89.cpp
 [344]: http://www.google.com
 [345]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Reverse%20a%20Vowels%20of%20%20a%20String%EF%BC%88%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8E%9F%E9%9F%B3%E5%AD%97%E6%AF%8D%EF%BC%89.cpp
@@ -91,6 +94,7 @@
 [485]: https://www.google.com
 [557]: https://www.google.com
 [561]: https://www.google.com
+[695]: https://www.google.com
 [724]: https://www.google.com
 [747]: https://www.google.com
 
