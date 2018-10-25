@@ -21,10 +21,11 @@
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 48 | [Rotate Image][048] | Array | Medium |
 | 54 | [Spiral Matrix][054] | Array | Medium |
+| 59 | [ Spiral Matrix II][059] | Array | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
 | 67 | [Add Binary][067] | Math, String | Easy |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
-| 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
+| 80 | [Remove duplicates from sorted arrays II][080] | dArray, Two Pointers | Medium |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 118 | [Pascal's Triangle][118] | Array | Easy |
 | 119 | [Pascal's Triangle Ⅱ][118] | Array | Easy |
@@ -67,6 +68,7 @@
 [036]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Valid%20Sudoku%EF%BC%88%E9%AA%8C%E8%AF%81%E6%95%B0%E7%8B%AC%EF%BC%89.cpp
 [048]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Rotate%20Image%EF%BC%88%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F%EF%BC%89.cpp
 [054]: https://www.google.com
+[059]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
 [067]: http://www.google.com
 [075]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Sort%20Colors%EF%BC%88%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%EF%BC%89.cpp
@@ -97,4 +99,3 @@
 [695]: https://www.google.com
 [724]: https://www.google.com
 [747]: https://www.google.com
-
