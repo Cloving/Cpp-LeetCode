@@ -21,11 +21,12 @@
 | 53 | [ Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
 | 54 | [Spiral Matrix][054] | Array | Medium |
 | 59 | [ Spiral Matrix II][059] | Array | Medium |
+| 62 | [Unique Paths][062] | Array, Dynamic Programming | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
 | 67 | [Add Binary][067] | Math, String | Easy |
 | 70 | [ Climbing Stairs][070] | Array | Easy |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
-| 80 | [Remove duplicates from sorted arrays II][080] | dArray, Two Pointers | Medium |
+| 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 118 | [Pascal's Triangle][118] | Array | Easy |
 | 119 | [Pascal's Triangle Ⅱ][118] | Array | Easy |
@@ -43,6 +44,7 @@
 | 229 | [Majority Element II][229] | Array | Medium |
 | 238 | [Product of Array Except Self][238] | Array | Medium |
 | 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
+| 292 | [Nim Game][292] | Brainteaser | Easy |
 | 344 | [Reverse String][344] | Two Pointers, String | Easy |
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
 | 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
@@ -70,6 +72,7 @@
 [053]: https://www.google.com
 [054]: https://www.google.com
 [059]: https://www.google.com
+[062]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
 [067]: http://www.google.com
 [070]: https://www.google.com
@@ -92,6 +95,7 @@
 [229]: https://www.google.com
 [238]: https://www.google.com
 [283]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Move%20Zeroes%EF%BC%88%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%89.cpp
+[292]: http://www.google.com
 [344]: http://www.google.com
 [345]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Reverse%20a%20Vowels%20of%20%20a%20String%EF%BC%88%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8E%9F%E9%9F%B3%E5%AD%97%E6%AF%8D%EF%BC%89.cpp
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
