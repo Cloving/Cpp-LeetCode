@@ -4,8 +4,12 @@
 1. 算法采用**Cpp**编写，所有提交程序均已AC，放心食用；
 2. 多数题目一般采用了两种或两种以上的方法解答；
 
+
+
+## 1~100
+
 | Index |                Title                |         Tag         | Type |
-| :---: | :---------------------------------: | :-----------------: | :--: |
+| :---: | :---------------------------------: | :--: | :--: |
 | 1 | [Two Sum][001] | Array, Hash Table | Easy |
 | 5 | [Longest Palindromic Substring][005] | String, Dynamic Programming | Medium |
 | 11 | [Container With Most Water][011] | Array, Two Pointers | Medium |
@@ -28,6 +32,11 @@
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
 | 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
+
+
+## 101~200
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 118 | [Pascal's Triangle][118] | Array | Easy |
 | 119 | [Pascal's Triangle Ⅱ][118] | Array | Easy |
 | 121 | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
@@ -38,6 +47,10 @@
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 169 | [Majority Element][169] | Bit Manipulation, Array, Divide and Conquer | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
+
+## 201~300
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 209 | [Minimum Size Subarray Sum][209] | Array, Two Pointers, Binary Search | Medium |
 | 215 | [Kth Largest Element in an array][215] | Heap, Divide and Conquer | Medium |
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
@@ -45,13 +58,33 @@
 | 238 | [Product of Array Except Self][238] | Array | Medium |
 | 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
 | 292 | [Nim Game][292] | Brainteaser | Easy |
+
+## 301~400
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 344 | [Reverse String][344] | Two Pointers, String | Easy |
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
 | 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+
+## 401~500
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 485 | [Max Consecutive Ones][485] | Array | Easy |
+
+## 501~600
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 557 | [Reverse Words in a String III][557] | String | Easy |
 | 561 | [Array Partition Ⅰ][561] | Array | Easy |
+
+## 601~700
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 695 | [Max Area of Island][695] | Depth-first Search, Array | Easy |
+
+## 701~800
+| Index |                Title                |         Tag         | Type |
+| :---: | :---------------------------------: | :--: | :--: |
 | 724 | [Find Pivot Index][724] | Array | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
 
