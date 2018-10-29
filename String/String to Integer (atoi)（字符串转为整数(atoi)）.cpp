@@ -1,3 +1,5 @@
+/* String to Integer (atoi)（字符串转为整数(atoi)） */
+
 class Solution {
 public:
     int myAtoi(string str) {
