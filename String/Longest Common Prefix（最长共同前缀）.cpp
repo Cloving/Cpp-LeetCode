@@ -11,7 +11,7 @@ public:
         for (int col = 0; col < strs[0].size(); col++) {
             char c = strs[0][col];
             for (int row = 0; row < strs.size(); row++) {
-                if (col > strs[row].size() || c != strs[row][col]) {
+                if (col >= strs[row].size() || c != strs[row][col]) {
                     return res;
                 }
             }
@@ -30,7 +30,7 @@ public:
         }
         for (int col = 0; col < strs[0].size(); col++) {
             for (int row = 0; row < strs.size() - 1; row++) {
-                if (col > strs[row].size() || strs[row][col] != strs[row+1][col]) {
+                if (col >= strs[row].size() || strs[row][col] != strs[row+1][col]) {
                     return strs[0].substr(0,col);
                 }
             }
@@ -49,7 +49,7 @@ public:
         string res;
         for (int col = 0; col < strs[0].size(); col++){
             for (int row = 0; row < strs.size()-1; row++) {
-                if (col > strs[row].size() || strs[row][col] != strs[row+1][col]) {
+                if (col >= strs[row].size() || strs[row][col] != strs[row+1][col]) {
                     return res;
                 }
             }

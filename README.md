@@ -6,7 +6,7 @@
 
 
 
-## 1~100
+## 001~100
 
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
@@ -20,7 +20,9 @@
 | 14 | [ Longest Common Prefix][014] | String | Easy |
 | 15 | [3Sum][015] | Array, Two Pointers | Medium |
 | 16 | [3Sum Closest][016] | Array, Two Pointers | Medium |
+| 19 | [Remove Nth Node From End of List][019] | Linked List, Two Pointers | Medium |
 | 20 | [Valid Parentheses][020] | Stack, String | Easy |
+| 21 | [Merge Two Sorted Lists][021] | Linked List | Easy |
 | 26 | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
 | 28 | [Implement strStr()][028] | Two Pointers, String | Easy |
@@ -104,7 +106,9 @@
 [014]: https://www.google.com
 [015]: https://www.google.com
 [016]: https://www.google.com
+[019]: https://www.google.com
 [020]: https://www.google.com
+[021]: https://www.google.com
 [026]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20duplicates%20from%20sorted%20arrays%EF%BC%88%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9%EF%BC%89.cpp
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [028]: https://www.google.com
