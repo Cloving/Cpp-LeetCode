@@ -27,6 +27,7 @@
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
 | 28 | [Implement strStr()][028] | Two Pointers, String | Easy |
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
+| 38 | [Count and Say][038] | String | Easy |
 | 48 | [Rotate Image][048] | Array | Medium |
 | 53 | [ Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
 | 54 | [Spiral Matrix][054] | Array | Medium |
@@ -116,6 +117,7 @@
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [028]: https://www.google.com
 [036]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Valid%20Sudoku%EF%BC%88%E9%AA%8C%E8%AF%81%E6%95%B0%E7%8B%AC%EF%BC%89.cpp
+[038]: https://www.google.com
 [048]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Rotate%20Image%EF%BC%88%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F%EF%BC%89.cpp
 [053]: https://www.google.com
 [054]: https://www.google.com
