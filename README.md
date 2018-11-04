@@ -50,6 +50,8 @@
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 125 | [Valid Palindrome][125] | Two Pointers, String | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
+| 141 | [ Linked List Cycle][141] | Linked List, Two Pointers | Easy |
+| 142 | [Linked List Cycle II][142] | Linked List, Two Pointers | Medium |
 | 151 | [Reverse Words in a String][151] | String | Medium |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 169 | [Majority Element][169] | Bit Manipulation, Array, Divide and Conquer | Easy |
@@ -136,6 +138,8 @@
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [125]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Valid%20Palindrome%EF%BC%88%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
+[141]: https://www.google.com
+[142]: https://www.google.com
 [151]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
 [169]: https://www.google.com
