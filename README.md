@@ -53,6 +53,7 @@
 | 141 | [ Linked List Cycle][141] | Linked List, Two Pointers | Easy |
 | 142 | [Linked List Cycle II][142] | Linked List, Two Pointers | Medium |
 | 151 | [Reverse Words in a String][151] | String | Medium |
+| 160 | [ Intersection of Two Linked Lists][160] | Linked List | Easy |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 169 | [Majority Element][169] | Bit Manipulation, Array, Divide and Conquer | Easy |
 | 189 | [Rotate Array][189] | Array | Easy |
@@ -141,6 +142,7 @@
 [141]: https://www.google.com
 [142]: https://www.google.com
 [151]: https://www.google.com
+[160]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
 [169]: https://www.google.com
 [189]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Rotate%20Array%EF%BC%88%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%EF%BC%89.cpp
