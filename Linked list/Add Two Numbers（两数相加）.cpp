@@ -8,6 +8,35 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+/* 第一种: 建立新链表 */
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+      ListNode* res = new ListNode(-1);
+      ListNode* cur = res;
+      int carry = 0;
+      while (l1 != NULL || l2 != NULL) {
+        int temp1 = l1 ? l1->val : 0;
+        int temp2 = l2 ? l2->val : 0;
+        int sum = temp1 + temp2 + carry;
+        cur->next = new ListNode(sum % 10);
+        cur = cur->next;
+        carry = sum / 10;
+        if (l1 != NULL) {
+          l1 = l1->next;
+        }
+        if (l2 != NULL) {
+          l2 = l2->next;
+        }
+      }
+      if (carry == 1) {
+        cur->next = new ListNode(carry);
+      }
+      return res->next;
+    }
+};
+
+/* 第二种：在原来的链表上修改（不好） */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
