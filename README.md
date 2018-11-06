@@ -39,6 +39,8 @@
 | 70 | [ Climbing Stairs][070] | Array | Easy |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
 | 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
+| 82 | [Remove Duplicates from Sorted List Ⅱ][082] | Linked List | Medium |
+| 83 | [Remove Duplicates from Sorted List][083] | Linked List | Easy |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 92 | [Reverse Linked List II][092] | Linked List | Medium |
 
@@ -84,6 +86,7 @@
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
 | 443 | [String Compression][443] | String | Easy |
+| 445 | [Add Two Numbers II][445] | Linked List | Medium |
 | 459 | [Repeated Substring Pattern][459] | String | Easy |
 | 485 | [Max Consecutive Ones][485] | Array | Easy |
 
@@ -103,6 +106,11 @@
 | :---: | :---------------------------------: | :--: | :--: |
 | 724 | [Find Pivot Index][724] | Array | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
+
+## 801~900
+| Index |              Title               |     Tag     | Type |
+| :---: | :------------------------------: | :---------: | :--: |
+|  876  | [Middle of the Linked List][876] | Linked List | Easy |
 
 
 
@@ -135,6 +143,8 @@
 [070]: https://www.google.com
 [075]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Sort%20Colors%EF%BC%88%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%EF%BC%89.cpp
 [080]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Remove%20duplicates%20from%20sorted%20arrays%20II%EF%BC%88%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II%EF%BC%89.cpp
+[082]: https://www.google.com
+[083]: https://www.google.com
 [088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [092]: https://www.google.com
 [118]: https://www.google.com
@@ -163,6 +173,7 @@
 [345]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Reverse%20a%20Vowels%20of%20%20a%20String%EF%BC%88%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8E%9F%E9%9F%B3%E5%AD%97%E6%AF%8D%EF%BC%89.cpp
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
 [443]: https://www.google.com
+[445]: https://www.google.com
 [459]: https://www.google.com
 [485]: https://www.google.com
 [557]: https://www.google.com
@@ -170,3 +181,4 @@
 [695]: https://www.google.com
 [724]: https://www.google.com
 [747]: https://www.google.com
+[876]: https://www.google.com
