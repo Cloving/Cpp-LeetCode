@@ -24,6 +24,7 @@
 | 19 | [Remove Nth Node From End of List][019] | Linked List, Two Pointers | Medium |
 | 20 | [Valid Parentheses][020] | Stack, String | Easy |
 | 21 | [Merge Two Sorted Lists][021] | Linked List | Easy |
+| 24 | [Swap Nodes in Pairs][024] | Linked List | Medium |
 | 26 | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
 | 28 | [Implement strStr()][028] | Two Pointers, String | Easy |
@@ -54,8 +55,11 @@
 | 122 | [Best Time to Buy and Sell Stock II][122] | Array, Greedy | Easy |
 | 125 | [Valid Palindrome][125] | Two Pointers, String | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
+| 138 | [Copy List with Random Pointer][138] | Hash Table, Linked List | Medium |
 | 141 | [ Linked List Cycle][141] | Linked List, Two Pointers | Easy |
 | 142 | [Linked List Cycle II][142] | Linked List, Two Pointers | Medium |
+| 147 | [Insertion Sort List][147] | Linked List, Sort | Medium |
+| 148 | [Sort List][148] | Linked List, Sort | Medium |
 | 151 | [Reverse Words in a String][151] | String | Medium |
 | 160 | [ Intersection of Two Linked Lists][160] | Linked List | Easy |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
@@ -128,6 +132,7 @@
 [019]: https://www.google.com
 [020]: https://www.google.com
 [021]: https://www.google.com
+[024]: https://www.google.com
 [026]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20duplicates%20from%20sorted%20arrays%EF%BC%88%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9%EF%BC%89.cpp
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [028]: https://www.google.com
@@ -153,8 +158,11 @@
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [125]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Valid%20Palindrome%EF%BC%88%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
+[138]: https://www.google.com
 [141]: https://www.google.com
 [142]: https://www.google.com
+[147]: https://www.google.com
+[148]: https://www.google.com
 [151]: https://www.google.com
 [160]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
