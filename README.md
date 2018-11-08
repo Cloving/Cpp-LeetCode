@@ -58,6 +58,7 @@
 | 138 | [Copy List with Random Pointer][138] | Hash Table, Linked List | Medium |
 | 141 | [ Linked List Cycle][141] | Linked List, Two Pointers | Easy |
 | 142 | [Linked List Cycle II][142] | Linked List, Two Pointers | Medium |
+| 143 | [Reorder List][143] | Linked List | Medium |
 | 147 | [Insertion Sort List][147] | Linked List, Sort | Medium |
 | 148 | [Sort List][148] | Linked List, Sort | Medium |
 | 151 | [Reverse Words in a String][151] | String | Medium |
@@ -161,6 +162,7 @@
 [138]: https://www.google.com
 [141]: https://www.google.com
 [142]: https://www.google.com
+[143]: https://www.google.com
 [147]: https://www.google.com
 [148]: https://www.google.com
 [151]: https://www.google.com
