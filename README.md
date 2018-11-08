@@ -42,6 +42,7 @@
 | 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
 | 82 | [Remove Duplicates from Sorted List Ⅱ][082] | Linked List | Medium |
 | 83 | [Remove Duplicates from Sorted List][083] | Linked List | Easy |
+| 86 | [ Partition List][086] | Linked List, Two Pointers | Medium |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 92 | [Reverse Linked List II][092] | Linked List | Medium |
 
@@ -151,6 +152,7 @@
 [080]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Remove%20duplicates%20from%20sorted%20arrays%20II%EF%BC%88%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II%EF%BC%89.cpp
 [082]: https://www.google.com
 [083]: https://www.google.com
+[086]: https://www.google.com
 [088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [092]: https://www.google.com
 [118]: https://www.google.com
