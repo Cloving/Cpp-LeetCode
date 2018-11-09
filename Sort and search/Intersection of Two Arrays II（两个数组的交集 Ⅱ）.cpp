@@ -1,4 +1,4 @@
-/* Intersection of Two Arrays II（两个数组的交集） */
+/* Intersection of Two Arrays II（两个数组的交集 Ⅱ） */
 
 /**
  * 两个数组的交集

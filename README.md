@@ -66,6 +66,7 @@
 | 160 | [ Intersection of Two Linked Lists][160] | Linked List | Easy |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 169 | [Majority Element][169] | Bit Manipulation, Array, Divide and Conquer | Easy |
+| 179 | [Largest Number][179] | Sort | Medium |
 | 189 | [Rotate Array][189] | Array | Easy |
 
 ## 201~300
@@ -86,7 +87,8 @@
 | 328 | [Odd Even Linked List][328] | Linked List | Medium |
 | 344 | [Reverse String][344] | Two Pointers, String | Easy |
 | 345 | [Reverse a Vowels of  a String][345] | Two Pointers, String | Easy |
-| 350 | [Intersection of Two Arrays][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+| 349 | [Intersection of Two Arrays][349] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+| 350 | [Intersection of Two Arrays Ⅱ][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
 
 ## 401~500
 | Index |                Title                |         Tag         | Type |
@@ -117,6 +119,12 @@
 | Index |              Title               |     Tag     | Type |
 | :---: | :------------------------------: | :---------: | :--: |
 |  876  | [Middle of the Linked List][876] | Linked List | Easy |
+
+## 901~1000
+
+| Index |                     Title                      |  Tag  |  Type  |
+| :---: | :--------------------------------------------: | :---: | :----: |
+|  915  | [Partition Array into Disjoint Intervals][915] | Array | Medium |
 
 
 
@@ -171,6 +179,7 @@
 [160]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
 [169]: https://www.google.com
+[179]: https://www.google.com
 [189]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Rotate%20Array%EF%BC%88%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [203]: https://www.google.com
 [209]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Minimum%20Size%20Subarray%20Sum%EF%BC%88%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E5%AD%90%E6%95%B0%E7%BB%84%EF%BC%89.cpp
@@ -194,3 +203,4 @@
 [724]: https://www.google.com
 [747]: https://www.google.com
 [876]: https://www.google.com
+[915]: https://www.google.com
