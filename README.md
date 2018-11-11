@@ -97,10 +97,13 @@
 | 445 | [Add Two Numbers II][445] | Linked List | Medium |
 | 459 | [Repeated Substring Pattern][459] | String | Easy |
 | 485 | [Max Consecutive Ones][485] | Array | Easy |
+| 496 | [Next Greater Element I][496] | Stack | Easy |
 
 ## 501~600
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
+| 503 | [ Next Greater Element II][503] | Stack | Medium |
+| 556 | [ Next Greater Element III][556] | String | Medium |
 | 557 | [Reverse Words in a String III][557] | String | Easy |
 | 561 | [Array Partition Ⅰ][561] | Array | Easy |
 
@@ -197,6 +200,9 @@
 [445]: https://www.google.com
 [459]: https://www.google.com
 [485]: https://www.google.com
+[496]: https://www.google.com
+[503]: https://www.google.com
+[556]: https://www.google.com
 [557]: https://www.google.com
 [561]: https://www.google.com
 [695]: https://www.google.com
