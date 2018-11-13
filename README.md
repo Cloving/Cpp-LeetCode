@@ -121,13 +121,15 @@
 ## 701~800
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
+| 704 | [ Binary Search][704] | Binary Search | Easy |
 | 724 | [Find Pivot Index][724] | Array | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | Array | Easy |
 
 ## 801~900
-| Index |              Title               |     Tag     | Type |
-| :---: | :------------------------------: | :---------: | :--: |
-|  876  | [Middle of the Linked List][876] | Linked List | Easy |
+| Index |                 Title                  |      Tag      | Type |
+| :---: | :------------------------------------: | :-----------: | :--: |
+|  852  | [ Peak Index in a Mountain Array][852] | Binary Search | Easy |
+|  876  |    [Middle of the Linked List][876]    |  Linked List  | Easy |
 
 ## 901~1000
 
@@ -219,7 +221,9 @@
 [557]: https://www.google.com
 [561]: https://www.google.com
 [695]: https://www.google.com
+[704]: https://www.google.com
 [724]: https://www.google.com
 [747]: https://www.google.com
+[852]: https://www.google.com
 [876]: https://www.google.com
 [915]: https://www.google.com
