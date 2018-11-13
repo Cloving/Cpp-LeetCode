@@ -30,7 +30,7 @@
 | 28 | [Implement strStr()][028] | Two Pointers, String | Easy |
 | 33 | [Search in Rotated Sorted Array][033] | Array, Binary Search | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array][034] | Array, Binary Search | Medium |
-| 35 | [Search Insert Position][35] | Array, Binary Search | Easy |
+| 35 | [Search Insert Position][035] | Array, Binary Search | Easy |
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 38 | [Count and Say][038] | String | Easy |
 | 48 | [Rotate Image][048] | Array | Medium |
