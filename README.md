@@ -28,12 +28,15 @@
 | 26 | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
 | 28 | [Implement strStr()][028] | Two Pointers, String | Easy |
+| 33 | [Search in Rotated Sorted Array][033] | Array, Binary Search | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array][034] | Array, Binary Search | Medium |
+| 35 | [Search Insert Position][35] | Array, Binary Search | Easy |
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 38 | [Count and Say][038] | String | Easy |
 | 48 | [Rotate Image][048] | Array | Medium |
 | 53 | [ Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
 | 54 | [Spiral Matrix][054] | Array | Medium |
+| 56 | [ Merge Intervals][056] | Sort, Array | Medium |
 | 59 | [ Spiral Matrix II][059] | Array | Medium |
 | 62 | [Unique Paths][062] | Array, Dynamic Programming | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
@@ -152,12 +155,15 @@
 [026]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20duplicates%20from%20sorted%20arrays%EF%BC%88%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9%EF%BC%89.cpp
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [028]: https://www.google.com
+[033]: https://www.google.com
 [034]: https://www.google.com
+[035]: https://www.google.com
 [036]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Valid%20Sudoku%EF%BC%88%E9%AA%8C%E8%AF%81%E6%95%B0%E7%8B%AC%EF%BC%89.cpp
 [038]: https://www.google.com
 [048]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Rotate%20Image%EF%BC%88%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F%EF%BC%89.cpp
 [053]: https://www.google.com
 [054]: https://www.google.com
+[056]: https://www.google.com
 [059]: https://www.google.com
 [062]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
