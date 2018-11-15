@@ -85,7 +85,9 @@
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
 | 229 | [Majority Element II][229] | Array | Medium |
 | 238 | [Product of Array Except Self][238] | Array | Medium |
+| 278 | [First Bad Version][278] | Binary Search | Easy |
 | 283 | [Move Zeroes][283] | Array, Two Pointers | Easy |
+| 287 | [Find the Duplicate Number][287] | Array, Two Pointers, Binary Search | Medium |
 | 292 | [Nim Game][292] | Brainteaser | Easy |
 
 ## 301~400
@@ -97,6 +99,7 @@
 | 347 | [Top K Frequent Elements][347] | Heap, Hash Table | Medium |
 | 349 | [Intersection of Two Arrays][349] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
 | 350 | [Intersection of Two Arrays Ⅱ][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+| 374 | [Guess Number Higher or Lower][374] | Binary Search | Easy |
 
 ## 401~500
 | Index |                Title                |         Tag         | Type |
@@ -207,6 +210,7 @@
 [217]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Contains%20Duplicate%EF%BC%88%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%EF%BC%89.cpp
 [229]: https://www.google.com
 [238]: https://www.google.com
+[278]: https://www.google.com
 [283]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Move%20Zeroes%EF%BC%88%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%89.cpp
 [292]: http://www.google.com
 [328]: http://www.google.com
@@ -215,6 +219,7 @@
 [347]: http://www.google.com
 [349]: http://www.google.com
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
+[374]: https://www.google.com
 [443]: https://www.google.com
 [445]: https://www.google.com
 [459]: https://www.google.com
