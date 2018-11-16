@@ -41,6 +41,7 @@
 | 62 | [Unique Paths][062] | Array, Dynamic Programming | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
 | 67 | [Add Binary][067] | Math, String | Easy |
+| 69 | [Valid Perfect Square][069] | Math, Binary Search | Easy |
 | 70 | [ Climbing Stairs][070] | Array | Easy |
 | 74 | [Search a 2D Matrix][074] | Array, Binary Search | Medium |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
@@ -99,6 +100,7 @@
 | 347 | [Top K Frequent Elements][347] | Heap, Hash Table | Medium |
 | 349 | [Intersection of Two Arrays][349] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
 | 350 | [Intersection of Two Arrays Ⅱ][350] | Sort, Hash Table, Two Pointers, Binary Search | Easy |
+| 367 | [Valid Perfect Square][367] | Math, Binary Search | Easy |
 | 374 | [Guess Number Higher or Lower][374] | Binary Search | Easy |
 
 ## 401~500
@@ -175,6 +177,7 @@
 [062]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
 [067]: https://www.google.com
+[069]: https://www.google.com
 [070]: https://www.google.com
 [074]: https://www.google.com
 [075]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Sort%20Colors%EF%BC%88%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%EF%BC%89.cpp
@@ -220,6 +223,7 @@
 [347]: http://www.google.com
 [349]: http://www.google.com
 [350]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Intersection%20of%20Two%20Arrays%20II%EF%BC%88%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%89.cpp
+[367]: https://www.google.com
 [374]: https://www.google.com
 [443]: https://www.google.com
 [445]: https://www.google.com
