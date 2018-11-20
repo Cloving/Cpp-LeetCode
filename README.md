@@ -1,7 +1,7 @@
 # 愿此行繁花似锦，再相逢依旧如故
 #### 本项目为[leetCode](https://leetcode-cn.com/)习题解答
 
-1. 算法采用**Cpp**编写，所有提交程序均已AC，放心食用；
+1. 算法采用**Cpp**编写，所有提交程序均**AC**，放心食用；
 2. 多数题目一般采用了两种或两种以上的方法解答；
 
 
@@ -25,6 +25,7 @@
 | 19 | [Remove Nth Node From End of List][019] | Linked List, Two Pointers | Medium |
 | 20 | [Valid Parentheses][020] | Stack, String | Easy |
 | 21 | [Merge Two Sorted Lists][021] | Linked List | Easy |
+| 22 | [Generate Parentheses][022] | Backtracking, String | Medium |
 | 24 | [Swap Nodes in Pairs][024] | Linked List | Medium |
 | 26 | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers | Easy |
 | 27 | [Remove Element][027] | Array, Two Pointers | Easy |
@@ -58,6 +59,8 @@
 ## 101~200
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
+| 101 | [ Symmetric Tree][101] | Tree, BFS, DFS | Easy |
+| 104 | [Maximum Depth of Binary Tree][104] | Tree, DFS | Easy |
 | 118 | [Pascal's Triangle][118] | Array | Easy |
 | 119 | [Pascal's Triangle Ⅱ][118] | Array | Easy |
 | 121 | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
@@ -162,6 +165,7 @@
 [019]: https://www.google.com
 [020]: https://www.google.com
 [021]: https://www.google.com
+[022]: https://www.google.com
 [024]: https://www.google.com
 [026]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20duplicates%20from%20sorted%20arrays%EF%BC%88%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9%EF%BC%89.cpp
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
@@ -190,6 +194,8 @@
 [086]: https://www.google.com
 [088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [092]: https://www.google.com
+[101]: https://www.google.com
+[104]: https://www.google.com
 [118]: https://www.google.com
 [119]: https://www.google.com
 [121]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%EF%BC%89.cpp
