@@ -59,6 +59,7 @@
 ## 101~200
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
+| 100 | [ Same Tree][100] | Tree, DFS | Easy |
 | 101 | [ Symmetric Tree][101] | Tree, BFS, DFS | Easy |
 | 102 | [Binary Tree Level Order Traversal][102] | Tree, BFS | Medium |
 | 104 | [Maximum Depth of Binary Tree][104] | Tree, DFS | Easy |
@@ -197,6 +198,7 @@
 [086]: https://www.google.com
 [088]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Merge%20Sorted%20Array%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [092]: https://www.google.com
+[100]: https://www.google.com
 [101]: https://www.google.com
 [102]: https://www.google.com
 [104]: https://www.google.com
