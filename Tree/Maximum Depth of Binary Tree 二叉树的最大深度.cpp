@@ -9,40 +9,42 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+/* 递归 */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if(root == NULL) {
-            return 0;
-        }
-        return 1+max(maxDepth(root->left), maxDepth(root->right));
+  int maxDepth(TreeNode* root) {
+    if(root == NULL) {
+      return 0;
     }
+    return 1+max(maxDepth(root->left), maxDepth(root->right));
+  }
 };
 
-
+/* 非递归 */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if(root == NULL) {
-            return 0;
-        }
-        int res = 0;
-        queue<TreeNode* > que;
-        que.push(root);
-        while(!que.empty()) {
-          res++;
-          int count = que.size();
-          for (int i = 0; i < count; i++) {
-            TreeNode* temp = que.front();
-            que.pop();
-            if (temp->left) {
-                que.push(temp->left);
-            }
-            if (temp->right) {
-                que.push(temp->right);
-            }
-          }
-        }
-        return res;
+  int maxDepth(TreeNode* root) {
+    if (!root) {
+      return 0;
     }
+    queue<TreeNode*> q;
+    q.push(root);
+    int res = 0;
+    while (!q.empty()) {
+      res++;
+      int count = q.size();
+      for (int i = 0; i < count; ++i) {
+        TreeNode* temp = q.front();
+        q.pop();
+        if (temp->left) {
+          q.push(temp->left);
+        }
+        if (temp->right) {
+          q.push(temp->right);
+        }
+      }
+    }
+    return res;
+  }
 };
