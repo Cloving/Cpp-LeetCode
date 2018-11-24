@@ -97,6 +97,7 @@
 | 209 | [Minimum Size Subarray Sum][209] | Array, Two Pointers, Binary Search | Medium |
 | 215 | [Kth Largest Element in an array][215] | Heap, Divide and Conquer | Medium |
 | 217 | [Contains Duplicate][217] | Array, Hash Table | Easy |
+| 226 | [ Invert Binary Tree][226] | Tree | Easy |
 | 229 | [Majority Element II][229] | Array | Medium |
 | 238 | [Product of Array Except Self][238] | Array | Medium |
 | 278 | [First Bad Version][278] | Binary Search | Easy |
