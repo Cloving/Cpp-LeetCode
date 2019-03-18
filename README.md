@@ -39,6 +39,7 @@
 | 53 | [ Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
 | 54 | [Spiral Matrix][054] | Array | Medium |
 | 56 | [ Merge Intervals][056] | Sort, Array | Medium |
+| 58 | [Length of Last Word][058] | String | Easy |
 | 59 | [ Spiral Matrix II][059] | Array | Medium |
 | 62 | [Unique Paths][062] | Array, Dynamic Programming | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
@@ -55,12 +56,12 @@
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 92 | [Reverse Linked List II][092] | Linked List | Medium |
 | 94 | [Binary Tree Inorder Traversal][094] | Stack, Tree, Hash Table | Medium |
+| 100 | [ Same Tree][100] | Tree, DFS | Easy |
 
 
 ## 101~200
 | Index |                Title                |         Tag         | Type |
 | :---: | :---------------------------------: | :--: | :--: |
-| 100 | [ Same Tree][100] | Tree, DFS | Easy |
 | 101 | [ Symmetric Tree][101] | Tree, BFS, DFS | Easy |
 | 102 | [Binary Tree Level Order Traversal][102] | Tree, BFS | Medium |
 | 104 | [Maximum Depth of Binary Tree][104] | Tree, DFS | Easy |
@@ -190,6 +191,7 @@
 [053]: https://www.google.com
 [054]: https://www.google.com
 [056]: https://www.google.com
+[058]: https://www.google.com
 [059]: https://www.google.com
 [062]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
