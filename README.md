@@ -18,7 +18,7 @@
 | 11 | [Container With Most Water][011] | Array, Two Pointers | Medium |
 | 12 | [Integer to Roman][012] | Math, String | Medium |
 | 13 | [Roman to Integer][013] | Math, String | Easy |
-| 14 | [ Longest Common Prefix][014] | String | Easy |
+| 14 | [Longest Common Prefix][014] | String | Easy |
 | 15 | [3Sum][015] | Array, Two Pointers | Medium |
 | 16 | [3Sum Closest][016] | Array, Two Pointers | Medium |
 | 19 | [Remove Nth Node From End of List][019] | Linked List, Two Pointers | Medium |
@@ -162,26 +162,26 @@
 
 
 [001]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Two%20Sum%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%EF%BC%89.cpp
-[002]: https://www.google.com
-[005]: https://www.google.com
-[007]: https://www.google.com
-[008]: https://www.google.com
-[009]: https://www.google.com
+[002]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Add%20Two%20Numbers%EF%BC%88%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%EF%BC%89.cpp
+[005]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Longest%20Palindromic%20Substring%EF%BC%88%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2%EF%BC%89.cpp
+[007]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Math/Reverse%20Integer%EF%BC%88%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0%EF%BC%89.cpp
+[008]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/String%20to%20Integer%20(atoi)%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E4%B8%BA%E6%95%B4%E6%95%B0(atoi)%EF%BC%89.cpp
+[009]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Math/Palindrome%20Number%EF%BC%88%E5%9B%9E%E6%96%87%E6%95%B0%EF%BC%89.cpp
 [011]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Container%20With%20Most%20Water%EF%BC%88%E7%9B%9B%E6%B0%B4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%B9%E5%99%A8%EF%BC%89.cpp
-[012]: https://www.google.com
-[013]: https://www.google.com
-[014]: https://www.google.com
-[015]: https://www.google.com
-[016]: https://www.google.com
-[019]: https://www.google.com
-[020]: https://www.google.com
-[021]: https://www.google.com
-[022]: https://www.google.com
-[024]: https://www.google.com
+[012]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Math/Integer%20to%20Roman%EF%BC%88%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%EF%BC%89.cpp
+[013]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Math/Roman%20to%20Integer%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8C%96%E6%88%90%E6%95%B4%E6%95%B0.cpp
+[014]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Longest%20Common%20Prefix%EF%BC%88%E6%9C%80%E9%95%BF%E5%85%B1%E5%90%8C%E5%89%8D%E7%BC%80%EF%BC%89.cpp
+[015]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/3Sum%EF%BC%88%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C%EF%BC%89.cpp
+[016]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/3Sum%20Closest%EF%BC%88%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C%EF%BC%89.cpp
+[019]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Remove%20Nth%20Node%20From%20End%20of%20List%20%EF%BC%88%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9%EF%BC%89.cpp
+[020]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Valid%20Parentheses%EF%BC%88%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7%EF%BC%89.cpp
+[021]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Merge%20Two%20Sorted%20Lists%20%EF%BC%88%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%EF%BC%89.cpp
+[022]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Backtracking/22%E3%80%81Generate%20Parentheses%EF%BC%88%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90%EF%BC%89.cpp
+[024]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Swap%20Nodes%20in%20Pairs%EF%BC%88%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9%EF%BC%89.cpp
 [026]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20duplicates%20from%20sorted%20arrays%EF%BC%88%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9%EF%BC%89.cpp
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
-[028]: https://www.google.com
-[033]: https://www.google.com
+[028]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Implement%20strStr()%20(%E5%AE%9E%E7%8E%B0strStr()).cpp
+[033]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%EF%BC%88%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
 [034]: https://www.google.com
 [035]: https://www.google.com
 [036]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Valid%20Sudoku%EF%BC%88%E9%AA%8C%E8%AF%81%E6%95%B0%E7%8B%AC%EF%BC%89.cpp
