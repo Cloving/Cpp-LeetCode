@@ -35,27 +35,27 @@
 | 36 | [Vaild Sudoku][036] | Hash Table | Medium |
 | 38 | [Count and Say][038] | String | Easy |
 | 48 | [Rotate Image][048] | Array | Medium |
-| 53 | [ Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
+| 53 | [Maximum Subarray][053] | Array, Divide and Conquer, Dynamic Programming | Easy |
 | 54 | [Spiral Matrix][054] | Array | Medium |
-| 56 | [ Merge Intervals][056] | Sort, Array | Medium |
+| 56 | [Merge Intervals][056] | Sort, Array | Medium |
 | 58 | [Length of Last Word][058] | String | Easy |
-| 59 | [ Spiral Matrix II][059] | Array | Medium |
+| 59 | [Spiral Matrix II][059] | Array | Medium |
 | 62 | [Unique Paths][062] | Array, Dynamic Programming | Medium |
 | 66 | [Plus One][066] | Array, Math | Easy |
 | 67 | [Add Binary][067] | Math, String | Easy |
 | 69 | [Valid Perfect Square][069] | Math, Binary Search | Easy |
-| 70 | [ Climbing Stairs][070] | Array | Easy |
+| 70 | [Climbing Stairs][070] | Array | Easy |
 | 74 | [Search a 2D Matrix][074] | Array, Binary Search | Medium |
 | 75 | [Sort Colors][075] | Sort, Array, Two Pointers | Medium |
 | 80 | [Remove duplicates from sorted arrays II][080] | Array, Two Pointers | Medium |
 | 81 | [Search in Rotated Sorted Array II][081] | Array, Binary Search | Medium |
 | 82 | [Remove Duplicates from Sorted List Ⅱ][082] | Linked List | Medium |
 | 83 | [Remove Duplicates from Sorted List][083] | Linked List | Easy |
-| 86 | [ Partition List][086] | Linked List, Two Pointers | Medium |
+| 86 | [Partition List][086] | Linked List, Two Pointers | Medium |
 | 88 | [Merge Sorted Array][088] | Array, Two Pointers | Easy |
 | 92 | [Reverse Linked List II][092] | Linked List | Medium |
 | 94 | [Binary Tree Inorder Traversal][094] | Stack, Tree, Hash Table | Medium |
-| 100 | [ Same Tree][100] | Tree, DFS | Easy |
+| 100 | [Same Tree][100] | Tree, DFS | Easy |
 
 
 ## 101~200
@@ -67,7 +67,7 @@
 | 107 | [Binary Tree Level Order Traversal II][107] | Tree, BFS | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree][108] | Tree, DFS | Easy |
 | 109 | [Convert Sorted List to Binary Search Tree][109] | Linked List, DFS | Medium |
-| 110 | [ Balanced Binary Tree][110] | Tree, DFS | Easy |
+| 110 | [Balanced Binary Tree][110] | Tree, DFS | Easy |
 | 118 | [Pascal's Triangle][118] | Array | Easy |
 | 119 | [Pascal's Triangle Ⅱ][118] | Array | Easy |
 | 121 | [Best Time to Buy and Sell Stock][121] | Array, Dynamic Programming | Easy |
@@ -75,15 +75,15 @@
 | 125 | [Valid Palindrome][125] | Two Pointers, String | Easy |
 | 136 | [Single Number][136] | Bit Manipulation, Hash Table | Easy |
 | 138 | [Copy List with Random Pointer][138] | Hash Table, Linked List | Medium |
-| 141 | [ Linked List Cycle][141] | Linked List, Two Pointers | Easy |
+| 141 | [Linked List Cycle][141] | Linked List, Two Pointers | Easy |
 | 142 | [Linked List Cycle II][142] | Linked List, Two Pointers | Medium |
 | 143 | [Reorder List][143] | Linked List | Medium |
 | 144 | [Binary Tree Preorder Traversal][144] | Stack, Tree | Medium |
-| 145 | [ Binary Tree Postorder Traversal][145] | Stack, Tree | Hard |
+| 145 | [Binary Tree Postorder Traversal][145] | Stack, Tree | Hard |
 | 147 | [Insertion Sort List][147] | Linked List, Sort | Medium |
 | 148 | [Sort List][148] | Linked List, Sort | Medium |
 | 151 | [Reverse Words in a String][151] | String | Medium |
-| 160 | [ Intersection of Two Linked Lists][160] | Linked List | Easy |
+| 160 | [Intersection of Two Linked Lists][160] | Linked List | Easy |
 | 162 | [Find Peak Element][162] | Array, Binary Search | Medium |
 | 167 | [Two Sum - Input array is sorted Ⅱ][167] | Array, Two Pointers, Binary Search | Easy |
 | 169 | [Majority Element][169] | Bit Manipulation, Array, Divide and Conquer | Easy |
@@ -182,20 +182,20 @@
 [027]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Remove%20Element%EF%BC%88%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%EF%BC%89.cpp
 [028]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Implement%20strStr()%20(%E5%AE%9E%E7%8E%B0strStr()).cpp
 [033]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%EF%BC%88%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%EF%BC%89.cpp
-[034]: https://www.google.com
-[035]: https://www.google.com
+[034]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Binary%20Search/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array%EF%BC%88%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE%EF%BC%89.cpp
+[035]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Binary%20Search/Search%20Insert%20Position%EF%BC%88%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE%EF%BC%89.cpp
 [036]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Valid%20Sudoku%EF%BC%88%E9%AA%8C%E8%AF%81%E6%95%B0%E7%8B%AC%EF%BC%89.cpp
-[038]: https://www.google.com
+[038]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Count%20and%20Say%EF%BC%88%E8%AE%A1%E6%95%B0%E4%B8%8E%E8%AF%BB%E6%B3%95%EF%BC%89.cpp
 [048]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Rotate%20Image%EF%BC%88%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F%EF%BC%89.cpp
-[053]: https://www.google.com
-[054]: https://www.google.com
-[056]: https://www.google.com
-[058]: https://www.google.com
-[059]: https://www.google.com
+[053]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Dynamic%20programming/Maximum%20Subarray%20%EF%BC%88%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%EF%BC%89.cpp
+[054]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Spiral%20Matrix%EF%BC%88%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%EF%BC%89.cpp
+[056]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Sort%20and%20search/Merge%20Intervals%EF%BC%88%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4%EF%BC%89.cpp
+[058]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Length%20of%20Last%20Word(%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6).cpp
+[059]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Array/Spiral%20Matrix%20II%EF%BC%88%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II%EF%BC%89.cpp
 [062]: https://www.google.com
 [066]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Plus%20One%EF%BC%88%E5%8A%A0%E4%B8%80%EF%BC%89.cpp
-[067]: https://www.google.com
-[069]: https://www.google.com
+[067]: https://github.com/Cloving/Cpp-LeetCode/blob/master/String/Add%20Binary(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C).cpp
+[069]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Binary%20Search/Valid%20Perfect%20Square%EF%BC%88%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0%EF%BC%89.cpp
 [070]: https://www.google.com
 [074]: https://www.google.com
 [075]: https://github.com/Cloving/Cpp-LeetCode/blob/master/medium/Array/Sort%20Colors%EF%BC%88%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%EF%BC%89.cpp
@@ -221,16 +221,16 @@
 [122]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%E2%85%A1%EF%BC%88%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%20%E2%85%A1%EF%BC%89.cpp
 [125]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/String/Valid%20Palindrome%EF%BC%88%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%EF%BC%89.cpp
 [136]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Single%20Number%EF%BC%88%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%89.cpp
-[138]: https://www.google.com
-[141]: https://www.google.com
-[142]: https://www.google.com
-[143]: https://www.google.com
+[138]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Copy%20List%20with%20Random%20Pointer%EF%BC%88%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8%EF%BC%89.cpp
+[141]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Linked%20List%20Cycle%EF%BC%88%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%EF%BC%89.cpp
+[142]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Linked%20List%20Cycle%20II%EF%BC%88%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II%EF%BC%89.cpp
+[143]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Reorder%20List%EF%BC%88%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8%EF%BC%89.cpp
 [144]: https://www.google.com
 [145]: https://www.google.com
 [147]: https://www.google.com
 [148]: https://www.google.com
 [151]: https://www.google.com
-[160]: https://www.google.com
+[160]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Linked%20list/Intersection%20of%20Two%20Linked%20Lists%EF%BC%88%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8%EF%BC%89.cpp
 [162]: https://www.google.com
 [167]: https://github.com/Cloving/Cpp-LeetCode/blob/master/Easy/Array/Two%20Sum%20-%20Input%20array%20is%20sorted%20%E2%85%A1%EF%BC%88%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1%EF%BC%89.cpp
 [169]: https://www.google.com
